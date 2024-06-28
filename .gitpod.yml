@@ -4,5 +4,6 @@ image:
 vscode:
   extensions:
     - LeetCode.vscode-leetcode
+    - mhutchie.git-graph
     - golang.go
     - golang.Go
